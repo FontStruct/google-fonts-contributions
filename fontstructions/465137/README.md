@@ -6,7 +6,7 @@ This font was created by [Alex Rosario](http://localhost/fontstructors/60479/neo
 
 It has a homepage where this archive and other versions may be found: 
 
-http://localhost/fontstructions/show/465137
+https://fontstruct.com/fontstructions/show/465137
 
 
 Try [FontStruct](https://fontstruct.com) – it’s easy and it’s fun!
