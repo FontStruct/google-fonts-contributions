@@ -6,9 +6,9 @@ This font was created by [Alex Rosario*](http://localhost/fontstructors/60479/ne
 
 It has a homepage where this archive and other versions may be found: 
 
-http://localhost/fontstructions/show/610015
+https://fontstruct.com/fontstructions/show/610015
 
-*NOTE: “Trigger” was originally cloned (copied) from the FontStruction “Trigger Bold” (http://localhost/fontstructions/show/465137) by Alex Rosario, which is licensed under a Open Font License license (http://localhost/fontstructions/license/465137).
+*NOTE: “Trigger” was originally cloned (copied) from the FontStruction “Trigger Bold” (https://fontstruct.com/fontstructions/show/465137) by Alex Rosario, which is licensed under a Open Font License license (https://fontstruct.com/fontstructions/license/465137).
 
 
 Try [FontStruct](https://fontstruct.com) – it’s easy and it’s fun!
