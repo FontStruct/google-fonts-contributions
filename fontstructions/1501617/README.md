@@ -6,7 +6,7 @@ This font was created by [“galoreporter”](http://localhost/fontstructors/132
 
 It has a homepage where this archive and other versions may be found: 
 
-http://localhost/fontstructions/show/1501617
+https://fontstruct.com/fontstructions/show/1501617
 
 
 Try [FontStruct](https://fontstruct.com) – it’s easy and it’s fun!
