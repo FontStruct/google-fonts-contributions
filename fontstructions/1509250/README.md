@@ -6,7 +6,7 @@ This font was created by [Doug Peters](http://localhost/fontstructors/595075/sym
 
 It has a homepage where this archive and other versions may be found: 
 
-http://localhost/fontstructions/show/1509250
+https://fontstruct.com/fontstructions/show/1509250
 
 
 Try [FontStruct](https://fontstruct.com) – it’s easy and it’s fun!
